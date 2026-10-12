@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataFlow.Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d37f2f2ca75a32c0468505c1f51bbce5819fbd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b31b98ba98a0705319f69ba18f8a29198a4554c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataFlow.Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataFlow.Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
