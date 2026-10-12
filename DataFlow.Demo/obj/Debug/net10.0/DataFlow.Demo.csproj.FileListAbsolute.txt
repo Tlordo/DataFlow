@@ -16,3 +16,4 @@ E:\LXP проекты\DataFlow.Demo\obj\Debug\net10.0\refint\DataFlow.Demo.dll
 E:\LXP проекты\DataFlow.Demo\obj\Debug\net10.0\DataFlow.Demo.pdb
 E:\LXP проекты\DataFlow.Demo\obj\Debug\net10.0\DataFlow.Demo.genruntimeconfig.cache
 E:\LXP проекты\DataFlow.Demo\obj\Debug\net10.0\ref\DataFlow.Demo.dll
+E:\LXP проекты\DataFlow.Demo\obj\Debug\net10.0\DataFlow.Demo.sourcelink.json
